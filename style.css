@@ -137,4 +137,5 @@ p {
 #activity #contents article {
   display: flex;
   justify-content: space-between;
+  
 }
